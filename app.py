@@ -19,4 +19,5 @@ elif BMI < 34.0:
 else:
     health= "Extreme Obese"
 
+# output :-
 print(f"your bmi is {BMI :.2f}\nyou are {health}")
