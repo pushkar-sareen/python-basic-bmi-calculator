@@ -31,7 +31,7 @@ python app.py
 
 Enter your height and weight when asked
 
-📥 User Input
+# User Input
 
 The program will ask for:
 
@@ -39,7 +39,7 @@ Height in meters
 
 Weight in kilograms
 
-📤 Program Output
+# Program Output
 
 After entering the required information, the program will display:
 
@@ -55,14 +55,14 @@ Below 18.5	Underweight
 30 – 34.9	Obese
 35 and above	Extremely Obese
 
-🧪 Sample Output
+# Sample Output
 Height: 1.75
 Weight: 70
 
 Your BMI is 22.86
 You are Normal
 
-📄 License
+# License
 
 This project is open and free to use for educational and learning purposes.
 
